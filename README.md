@@ -44,6 +44,12 @@ Django stands as a professional and high-level Python web framework, admired for
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/fairytalesbrand/e-commerce-webapp-django.git
 cd e-commerce-webapp-django
+
+### Credentials
+
+<p align="center">
+  <img src="Django Application Development with SQL and Databases ZY244NGHBJFT.jpg" alt="TensorFlow Logo" width="825">
+</p>
