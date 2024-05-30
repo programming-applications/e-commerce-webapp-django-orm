@@ -2,7 +2,7 @@
   <img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" alt="Django Logo" width="200">
 </p>
 
-<h1 align="center">Django E-Commerce Web Application</h1>
+<h1 align="center">Django Object-Relational Mapping (ORM) E-Commerce Web Application</h1>
 
 <p align="center">
 
@@ -19,7 +19,7 @@
 
 ## Overview
 
-This is a professional-grade open-source e-commerce web application built with Django. The project leverages the power of Django's high-level abstractions, including its robust ORM, dynamic admin interface, and clean URL routing, to provide a scalable and feature-rich platform for online shopping. With an emphasis on security, efficiency, and extensibility, this e-commerce solution is designed to meet the needs of modern web development.
+This is a professional-grade open-source e-commerce web application built with Django Object-Relational Mapping (ORM). The project leverages the power of Django Object-Relational Mapping (ORM)'s high-level abstractions, including its robust ORM, dynamic admin interface, and clean URL routing, to provide a scalable and feature-rich platform for online shopping. With an emphasis on security, efficiency, and extensibility, this e-commerce solution is designed to meet the needs of modern web development.
 
 **Key Features:**
 - Seamless product browsing and search functionality
